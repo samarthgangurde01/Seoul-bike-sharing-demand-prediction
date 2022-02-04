@@ -1,6 +1,7 @@
 
 #Project Title : Seoul Bike Sharing Demand Prediction
 
+## Description
 Handelling missing values and duplicates was our first step, and secondly we moved to Exploratry data analysis where we performed Exploratory Data Analysis(EDA) on all the features of our datset. We first analysed our dependent variable, 'Rented Bike Count' & independet variables like month, weekend and hours etc.further we moved toword variables correlation and their relationship with the others We also removed some features.could create dummie variables of categorical variables.in last we implemented 6 machine learning algorithms Linear Regression,Lasso,ridge,Decission Tree, Random Forest and XGBoost.none of them showed overfitting.Random Forest Model has given accuracy upto 90% which is preety good for prediction and choosing it for deployment
 we created our webapp by streamlit library and deployed it on Heroku
 
@@ -39,20 +40,24 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * requirements.txt:contains required libraries 
 
 ## Results
+Random Forest Model has given accuracy upto 90%.Lets see its other values
 
 RANDOM FOREST
 
 MSE : 15.382922163400737
+
 RMSE : 3.922106852624076
+
 MAE : 2.5328978390679664
+
 R2 : 0.9004823319676353
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/93859458/152525488-f743f44c-6947-4c05-b11c-5614dfca8807.png)
 ![image](https://user-images.githubusercontent.com/93859458/152525537-d5d5f4fd-f315-4436-95fa-f291f138c1ec.png)
 ![image](https://user-images.githubusercontent.com/93859458/152525193-6bf7f581-24de-494a-bd94-9159f1cf7c8d.png)
 ![image](https://user-images.githubusercontent.com/93859458/152525374-ff641401-7fa5-4161-aedc-14d57784fe39.png)
-![image](https://user-images.githubusercontent.com/93859458/152525488-f743f44c-6947-4c05-b11c-5614dfca8807.png)
 
 
 ## Run Locally
@@ -80,6 +85,9 @@ Start the server
 ```bash
   npm run start
 ```
+
+## Some of the Screenshots when we run model on local servor
+
 
 
 ## Deployment
