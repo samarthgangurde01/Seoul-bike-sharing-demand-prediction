@@ -86,8 +86,9 @@ Start the server
   npm run start
 ```
 
-## Some of the Screenshots when we run model on local servor
-
+## Demo vedio,when we run model on local servor
+link-https://youtu.be/zcb8x2iGAw4
+we will suggest you to watch in full screen
 
 
 ## Deployment
