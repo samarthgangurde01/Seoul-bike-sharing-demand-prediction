@@ -88,7 +88,8 @@ Start the server
 
 ## Demo vedio,when we run model on local servor
 link-https://youtu.be/zcb8x2iGAw4
-we will suggest you to watch in full screen
+
+we suggest you to watch in full screen
 
 
 ## Deployment
@@ -96,7 +97,7 @@ we will suggest you to watch in full screen
 
 
 ## Business Goal:
-You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+You are required to builed model of demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 
 ## Feedback
