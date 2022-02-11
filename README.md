@@ -28,16 +28,16 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * pickle
 
 ## Files
-* This repository contains two files 
+* This repository contains two files /
 * capston_seoul_bike_prediction.ipynb: Google colab contains all the python code, documentation and visualization
 * SeoulBikeData.csv: Our dataset 
-* Data.csv: Our processed dataset file
-* clean.csv:clean dataset file
-* app.py:contains whole structure of app
-* eda.py:contains EDA setup for app
-* main.py:contains best algorithm for app
-* info1641661138.jpeg:image
-* philly-bike-share.jpeg:image
+* /clean data/Data.csv: Our processed dataset file
+* /clean data/clean.csv:clean dataset file
+* /app/app.py:contains whole structure of app
+* /app/eda.py:contains EDA setup for app
+* /app/main.py:contains best algorithm for app
+* /image/info1641661138.jpeg:image
+* /image/philly-bike-share.jpeg:image
 * requirements.txt:contains required libraries 
 
 ## Results
