@@ -109,17 +109,29 @@ Link for app:- https://share.streamlit.io/samarthgangurde01/seoul-bike-sharing-d
 #### First dataset                                                      ####Second dataset
 
 Temperature          :                                                  Temperature          :
+
 Humidity             :                                                  Humidity             :
+
 Wind_speed           :                                                  Wind_speed           :
+
 Visibility           :                                                  Visibility           :
+
 Solar_Radiation      :                                                  Solar_Radiation      :
+
 Rainfall             :                                                  Rainfall             :
+
 Snowfall             :                                                  Snowfall             :
+
 Hour                 :                                                  Hour                 :
+
 Seasons              :                                                  Seasons              :
+
 Holiday_No           :                                                  Holiday_No           :
+
 Month_4              :                                                  Month_4              :
+
 Functioning_Day      :                                                  Functioning_Day      :
+
 weekend              :                                                  weekend              :
 
 
