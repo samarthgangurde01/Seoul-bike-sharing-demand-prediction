@@ -106,33 +106,33 @@ Link for app:- https://share.streamlit.io/samarthgangurde01/seoul-bike-sharing-d
 
 ### Trial datasets
 
-#### First dataset                                                      ####Second dataset
+#### First dataset                                                    
 
-Temperature          :                                                  Temperature          :
+Temperature          : -5.2                                                
 
-Humidity             :                                                  Humidity             :
+Humidity             :  37                                              
 
-Wind_speed           :                                                  Wind_speed           :
+Wind_speed           :  2.2                                               
 
-Visibility           :                                                  Visibility           :
+Visibility           :  2000                                              
 
-Solar_Radiation      :                                                  Solar_Radiation      :
+Solar_Radiation      :  0.0                                               
 
-Rainfall             :                                                  Rainfall             :
+Rainfall             :  0.0                                              
 
-Snowfall             :                                                  Snowfall             :
+Snowfall             :  0.0                                            
 
-Hour                 :                                                  Hour                 :
+Hour                 :  24
 
-Seasons              :                                                  Seasons              :
+Seasons              :  winter
 
-Holiday_No           :                                                  Holiday_No           :
+Holiday              :  YES                                             
 
-Month_4              :                                                  Month_4              :
+Month                :  1st                                                 
 
-Functioning_Day      :                                                  Functioning_Day      :
+Functioning_Day      :  YES                                               
 
-weekend              :                                                  weekend              :
+weekend              :  NO                                               
 
 
 
