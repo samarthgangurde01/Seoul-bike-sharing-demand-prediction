@@ -103,7 +103,7 @@ we deployed our model on streamlit.io
 Streamlit.io is an open-source platform for machine learning and data science teams to create data applications with python
 The platform uses python scripting, APIs, widgets, instant deployment, team collaboration tools, and application management solutions to help data scientists and machine learning engineers create python-based applications. Applications created using Streamlit range from applications capable of real time object detection, geographic data browsers, deep dream network debuggers, to face-GAN explorers. Frameworks compatible with Streamlit include: Scikit Learn, Keras, Plotly, OpenCV,, NumPy, Seaborn, Python, Matplotlib, and Pandas.
 
-Link for app:- https://share.streamlit.io/samarthgangurde01/seoul-bike-sharing-demand-prediction/main/app.py
+Link for app:- https://share.streamlit.io/samarthgangurde01/seoul-bike-sharing-demand-prediction/main/app/app.py
 
 ### Trial datasets
 
