@@ -105,11 +105,9 @@ The platform uses python scripting, APIs, widgets, instant deployment, team coll
 
 Link for app:- https://share.streamlit.io/samarthgangurde01/seoul-bike-sharing-demand-prediction/main/app/app.py
 
-### Screenshorts of deployed model
+### Screenshort of deployed model
 ![image](https://user-images.githubusercontent.com/93859458/153553308-3059baae-1ee5-4ac7-8d01-668329cf45ff.png)
-![image](https://user-images.githubusercontent.com/93859458/153553584-ae52fdef-f504-47eb-8bbb-1ea4cf8d0431.png)
-![image](https://user-images.githubusercontent.com/93859458/153553639-e99741f7-48c9-4ca6-bfb4-47abfed1fcd4.png)
-![image](https://user-images.githubusercontent.com/93859458/153553712-144b0090-238c-4a96-8aac-9e9928b3b2ed.png)
+
 
 
 ### Trial datasets
