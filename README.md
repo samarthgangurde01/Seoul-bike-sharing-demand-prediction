@@ -93,6 +93,14 @@ we suggest you to watch in full screen
 
 
 ## Deployment
+we deployed our model on streamlit.io
+![image](https://user-images.githubusercontent.com/93859458/153545789-856eae5b-c9d4-44c4-a1f4-5440083dbb59.png)
+
+Link for app:- https://share.streamlit.io/samarthgangurde01/seoul-bike-sharing-demand-prediction/main/app.py
+
+## Trial datasets
+
+
 
 
 
