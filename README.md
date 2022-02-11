@@ -14,9 +14,11 @@ we created our webapp by streamlit library and deployed it on Heroku
 * Deployment
 * Business Summary
 * Acknowledgements
+* 
 ## Dataset Information
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
+
 ## Tools and Libraries Used
 * Pandas
 * numpy
@@ -96,9 +98,29 @@ we suggest you to watch in full screen
 we deployed our model on streamlit.io
 ![image](https://user-images.githubusercontent.com/93859458/153545789-856eae5b-c9d4-44c4-a1f4-5440083dbb59.png)
 
+### streamlit.io
+Streamlit.io is an open-source platform for machine learning and data science teams to create data applications with python
+The platform uses python scripting, APIs, widgets, instant deployment, team collaboration tools, and application management solutions to help data scientists and machine learning engineers create python-based applications. Applications created using Streamlit range from applications capable of real time object detection, geographic data browsers, deep dream network debuggers, to face-GAN explorers. Frameworks compatible with Streamlit include: Scikit Learn, Keras, Plotly, OpenCV,, NumPy, Seaborn, Python, Matplotlib, and Pandas.
+
 Link for app:- https://share.streamlit.io/samarthgangurde01/seoul-bike-sharing-demand-prediction/main/app.py
 
-## Trial datasets
+### Trial datasets
+
+#### First dataset                                                      ####Second dataset
+
+Temperature          :                                                  Temperature          :
+Humidity             :                                                  Humidity             :
+Wind_speed           :                                                  Wind_speed           :
+Visibility           :                                                  Visibility           :
+Solar_Radiation      :                                                  Solar_Radiation      :
+Rainfall             :                                                  Rainfall             :
+Snowfall             :                                                  Snowfall             :
+Hour                 :                                                  Hour                 :
+Seasons              :                                                  Seasons              :
+Holiday_No           :                                                  Holiday_No           :
+Month_4              :                                                  Month_4              :
+Functioning_Day      :                                                  Functioning_Day      :
+weekend              :                                                  weekend              :
 
 
 
